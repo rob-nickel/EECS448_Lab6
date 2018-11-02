@@ -1,0 +1,7 @@
+Rob Nickel, Lab 6, EECS 448
+
+Bug List:
+        addBack() adds to the front of a LinkedList, not the back
+        isEmpty() fails to return false on a nonempty List
+        removeBack() doesn't remove the value
+        removeFront() doesn't remove the value
